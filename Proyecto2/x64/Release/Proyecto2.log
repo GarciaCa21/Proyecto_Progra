@@ -1,0 +1,17 @@
+﻿  Acreedor.cpp
+  Articulo.cpp
+  Database.cpp
+  Deudor.cpp
+  Finiquito.cpp
+  FormaPago.cpp
+  Notificacion.cpp
+  Penalizacion.cpp
+  Personal.cpp
+  Proyecto2.cpp
+  Usuario.cpp
+  Generando código
+  2 of 227 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Proyecto2.vcxproj -> C:\Users\reyar\source\repos\Proyecto2\x64\Release\Proyecto2.exe
